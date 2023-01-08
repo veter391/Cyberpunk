@@ -199,22 +199,22 @@ h1,h2,h3,h4,h5,h6,p {margin: 0;transition: color .3s ease;}
   background-repeat: no-repeat;
 }
 .social__link--fb {
-  background-image: url('/img/sprite/fb.svg');
+  background-image: url('../img/sprite/fb.svg');
 }
 .social__link--vk {
-  background-image: url('/img/sprite/vk.svg');
+  background-image: url('../img/sprite/vk.svg');
 }
 .social__link--youtube {
-  background-image: url('/img/sprite/youtube.svg');
+  background-image: url('../img/sprite/youtube.svg');
 }
 .social__link--inst {
-  background-image: url('/img/sprite/instagram.svg');
+  background-image: url('../img/sprite/instagram.svg');
 }
 .social__link--twich {
-  background-image: url('/img/sprite/twitch.svg');
+  background-image: url('../img/sprite/twitch.svg');
 }
 .social__link--twiter {
-  background-image: url('/img/sprite/twitte.svg');
+  background-image: url('../img/sprite/twitte.svg');
 }
 
 .social__link::before,
@@ -228,27 +228,27 @@ h1,h2,h3,h4,h5,h6,p {margin: 0;transition: color .3s ease;}
 
 .social__link--fb::before,
 .social__link--fb::after {
-  content: url('/img/sprite/fb.svg');
+  content: url('../img/sprite/fb.svg');
 }
 .social__link--vk::before,
 .social__link--vk::after {
-  content: url('/img/sprite/vk.svg');
+  content: url('../img/sprite/vk.svg');
 }
 .social__link--youtube::before,
 .social__link--youtube::after {
-  content: url('/img/sprite/youtube.svg');
+  content: url('../img/sprite/youtube.svg');
 }
 .social__link--inst::before,
 .social__link--inst::after {
-  content: url('/img/sprite/instagram.svg');
+  content: url('../img/sprite/instagram.svg');
 }
 .social__link--twich::before,
 .social__link--twich::after {
-  content: url('/img/sprite/twitch.svg');
+  content: url('../img/sprite/twitch.svg');
 }
 .social__link--twiter::before,
 .social__link--twiter::after {
-  content: url('/img/sprite/twitte.svg');
+  content: url('../img/sprite/twitte.svg');
 }
 
 
@@ -263,7 +263,7 @@ h1,h2,h3,h4,h5,h6,p {margin: 0;transition: color .3s ease;}
 /* hero */
 .hero {
   position: relative;
-  background-image: url("/img/hero3.jpg");
+  background-image: url("../img/hero3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
